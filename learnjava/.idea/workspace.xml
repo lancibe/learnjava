@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b1459e7b-8fde-4bc5-a152-8250f3ed00c5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1i5pCi7cjr1fyfIifsFBQZQLJL6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="../learnjava" />
+      <recent name="" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b1459e7b-8fde-4bc5-a152-8250f3ed00c5" name="Default Changelist" comment="" />
+      <created>1601207182869</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601207182869</updated>
+      <workItem from="1601207184008" duration="1214000" />
+      <workItem from="1602209353153" duration="810000" />
+      <workItem from="1602210181156" duration="17000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="255" y="107" width="1000" height="883" key="#Plugins" timestamp="1602210197010">
+      <screen x="0" y="27" width="1920" height="1006" />
+    </state>
+    <state x="255" y="107" width="1000" height="883" key="#Plugins/0.27.1920.1006@0.27.1920.1006" timestamp="1602210197010" />
+    <state x="467" y="106" width="1024" height="845" key="#Project_Structure" timestamp="1601207193895">
+      <screen x="0" y="27" width="1920" height="1006" />
+    </state>
+    <state x="467" y="106" width="1024" height="845" key="#Project_Structure/0.27.1920.1006/1920.0.1920.1080@0.27.1920.1006" timestamp="1601207193895" />
+    <state x="418" y="203" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601207937302">
+      <screen x="0" y="27" width="1920" height="1006" />
+    </state>
+    <state x="418" y="203" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1920.1006/1920.0.1920.1080@0.27.1920.1006" timestamp="1601207937301" />
+    <state x="627" y="277" width="655" height="548" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1601208204891">
+      <screen x="0" y="27" width="1920" height="1006" />
+    </state>
+    <state x="627" y="277" width="655" height="548" key="#com.intellij.ide.util.PackageChooserDialog/0.27.1920.1006/1920.0.1920.1080@0.27.1920.1006" timestamp="1601208204891" />
+    <state x="640" y="256" width="630" height="546" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1602209670079">
+      <screen x="0" y="27" width="1920" height="1006" />
+    </state>
+    <state x="640" y="256" width="630" height="546" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.27.1920.1006@0.27.1920.1006" timestamp="1602209670079" />
+    <state x="497" y="28" width="920" height="1005" key="CommitChangelistDialog2" timestamp="1601207252138">
+      <screen x="0" y="27" width="1920" height="1006" />
+    </state>
+    <state x="497" y="28" width="920" height="1005" key="CommitChangelistDialog2/0.27.1920.1006/1920.0.1920.1080@0.27.1920.1006" timestamp="1601207252138" />
+    <state x="695" y="252" width="530" height="598" key="FileChooserDialogImpl" timestamp="1601208281789">
+      <screen x="0" y="27" width="1920" height="1006" />
+    </state>
+    <state x="695" y="252" width="530" height="598" key="FileChooserDialogImpl/0.27.1920.1006/1920.0.1920.1080@0.27.1920.1006" timestamp="1601208281789" />
+    <state x="511" y="107" key="SettingsEditor" timestamp="1601208027603">
+      <screen x="0" y="27" width="1920" height="1006" />
+    </state>
+    <state x="511" y="107" key="SettingsEditor/0.27.1920.1006/1920.0.1920.1080@0.27.1920.1006" timestamp="1601208027603" />
+    <state x="535" y="285" width="800" height="531" key="Vcs.Push.Dialog.v2" timestamp="1601207245358">
+      <screen x="0" y="27" width="1920" height="1006" />
+    </state>
+    <state x="535" y="285" width="800" height="531" key="Vcs.Push.Dialog.v2/0.27.1920.1006/1920.0.1920.1080@0.27.1920.1006" timestamp="1601207245358" />
+    <state x="545" y="249" key="run.anything.popup" timestamp="1601208172928">
+      <screen x="0" y="27" width="1920" height="1006" />
+    </state>
+    <state x="545" y="249" key="run.anything.popup/0.27.1920.1006/1920.0.1920.1080@0.27.1920.1006" timestamp="1601208172928" />
+  </component>
+</project>
