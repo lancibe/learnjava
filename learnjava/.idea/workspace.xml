@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b1459e7b-8fde-4bc5-a152-8250f3ed00c5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/learnjava.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +31,9 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1i5pCi7cjr1fyfIifsFBQZQLJL6" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -95,6 +95,7 @@
       <workItem from="1602210181156" duration="2552000" />
       <workItem from="1602212820196" duration="1192000" />
       <workItem from="1602214152937" duration="1179000" />
+      <workItem from="1602993335073" duration="1762000" />
     </task>
     <servers />
   </component>
@@ -118,10 +119,10 @@
     </state>
     <state x="418" y="203" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1920.1006/1920.0.1920.1080@0.27.1920.1006" timestamp="1601207937301" />
     <state x="419" y="203" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1920.1006@0.27.1920.1006" timestamp="1602211499356" />
-    <state x="617" y="315" width="676" height="427" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602214385891">
+    <state x="322" y="384" width="710" height="427" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602996195496">
       <screen x="0" y="27" width="1920" height="1006" />
     </state>
-    <state x="617" y="315" width="676" height="427" key="#com.intellij.fileTypes.FileTypeChooser/0.27.1920.1006@0.27.1920.1006" timestamp="1602214385891" />
+    <state x="322" y="384" width="710" height="427" key="#com.intellij.fileTypes.FileTypeChooser/0.27.1920.1006@0.27.1920.1006" timestamp="1602996195496" />
     <state x="685" y="168" width="530" height="723" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1602212886050">
       <screen x="0" y="27" width="1920" height="1006" />
     </state>
@@ -194,10 +195,10 @@
     </state>
     <state x="535" y="285" width="800" height="531" key="Vcs.Push.Dialog.v2/0.27.1920.1006/1920.0.1920.1080@0.27.1920.1006" timestamp="1601207245358" />
     <state x="535" y="285" key="Vcs.Push.Dialog.v2/0.27.1920.1006@0.27.1920.1006" timestamp="1602211485017" />
-    <state x="550" y="193" width="810" height="671" key="new project wizard" timestamp="1602214358054">
+    <state x="550" y="193" width="810" height="671" key="new project wizard" timestamp="1602996240074">
       <screen x="0" y="27" width="1920" height="1006" />
     </state>
-    <state x="550" y="193" width="810" height="671" key="new project wizard/0.27.1920.1006@0.27.1920.1006" timestamp="1602214358054" />
+    <state x="550" y="193" width="810" height="671" key="new project wizard/0.27.1920.1006@0.27.1920.1006" timestamp="1602996240074" />
     <state x="545" y="249" key="run.anything.popup" timestamp="1601208172928">
       <screen x="0" y="27" width="1920" height="1006" />
     </state>
