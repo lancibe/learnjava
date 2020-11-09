@@ -1,3 +1,5 @@
+package chapter6.shape;
+
 public abstract class Shape {
     {
         System.out.println("执行初始化块");
