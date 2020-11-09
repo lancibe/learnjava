@@ -1,4 +1,4 @@
-package chapter6.shape;
+package shape;
 
 public abstract class Shape {
     {

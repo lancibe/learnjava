@@ -1,6 +1,6 @@
-package chapter6.shape;
+package shape;
 
-public class Triangle extends chapter6.shape.Shape {
+public class Triangle extends shape.Shape {
     //定义三角形的三边
     private double a;
     private double b;
