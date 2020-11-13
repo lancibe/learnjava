@@ -1,7 +1,7 @@
 public class OutputFactory {
     public Output getOutput()
     {
-        return new Printer();
+        return new BetterPrinter();
     }
     public static void main(String[] args)
     {
