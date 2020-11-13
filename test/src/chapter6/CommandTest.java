@@ -1,3 +1,7 @@
+import ProcessArray;
+import PrintCommand;
+import AddCommand;
+
 public class CommandTest {
     public static void main(String[] args)
     {
