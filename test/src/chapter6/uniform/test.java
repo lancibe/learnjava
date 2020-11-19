@@ -1,4 +1,3 @@
-package chapter6.uniform;
 
 import java.io.File;
 
@@ -17,7 +16,7 @@ public class test {
                 String name = list[i].getName();
                 // 截取.之前的字符串出来
                 int index = name.indexOf(".");
-                // 截取.JPG出来
+                // 截取.xxx出来
                 int index2 = name.lastIndexOf(".");
                 String name3 = name.substring(index2);
                 // 拼接字符串
