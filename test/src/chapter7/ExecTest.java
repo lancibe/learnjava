@@ -3,6 +3,6 @@ public class ExecTest {
             throws Exception
     {
         Runtime rt = Runtime.getRuntime();
-        rt.exec("python");
+        rt.exec("gnome-terminal");
     }
 }
