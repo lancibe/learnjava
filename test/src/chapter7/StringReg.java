@@ -13,6 +13,7 @@ public class StringReg {
         {
             System.out.println(msg.replaceFirst("re\\w*", "哈哈:)"));
             System.out.println(Arrays.toString(msg.split(" ")));
+
         }
     }
 }
