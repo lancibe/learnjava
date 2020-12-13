@@ -11,7 +11,7 @@ public class MathTest {
         //计算双曲正弦
         System.out.println("Math.sinh(1.2):"+Math.sinh(1.2));
         //将矩形坐标(x,y)转换为极坐标(r, thet)
-        System.out.println("Math.atan2(0.1, 0.2):"+Math.atan2(0.1, 0.2))
+        System.out.println("Math.atan2(0.1, 0.2):"+Math.atan2(0.1, 0.2));
         //取整运算
         //向下取整
         System.out.println("Math.floor(-1.2):"+Math.floor(-1.2));
