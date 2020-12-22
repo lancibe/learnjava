@@ -155,6 +155,7 @@ public class ShowHand {
          * 3. 游戏是否只剩一个玩家：如果是则判断其胜利
          * 4. 如果已经是一张扑克牌，则需要比较剩下玩家牌面大小
          */
+
         //重新开始发牌
         sh.deliverCard("AI");
         sh.showAllCards();
