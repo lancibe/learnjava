@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f55beb10-0742-4d49-a456-6962809a0686" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/GenericList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter9.iml" beforeDir="false" afterPath="$PROJECT_DIR$/chapter9.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/chapter9/ListErr.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter9/ListErr.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../chapter9/.idea/chapter9.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../chapter9/.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../chapter9/.idea/modules.xml" beforeDir="false" />
@@ -44,7 +41,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
   </component>
   <component name="ProjectId" id="1m67EF5nP7OAEvUCZgfCJtuSW62" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -101,7 +100,7 @@
       <workItem from="1608801654970" duration="363000" />
       <workItem from="1608802077491" duration="317000" />
       <workItem from="1608802414269" duration="918000" />
-      <workItem from="1609121793381" duration="1066000" />
+      <workItem from="1609121793381" duration="1368000" />
     </task>
     <servers />
   </component>
