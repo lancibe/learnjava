@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f55beb10-0742-4d49-a456-6962809a0686" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/GenericMethodTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GenericConstructor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -109,7 +109,7 @@
       <workItem from="1608802077491" duration="317000" />
       <workItem from="1608802414269" duration="918000" />
       <workItem from="1609121793381" duration="8489000" />
-      <workItem from="1609209161803" duration="673000" />
+      <workItem from="1609209161803" duration="1395000" />
     </task>
     <servers />
   </component>
