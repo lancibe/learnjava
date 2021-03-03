@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="test">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/production/test/member-search-index.zip!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/test/package-search-index.zip!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/test/uniform.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/test/type-search-index.zip!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/test/test.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
