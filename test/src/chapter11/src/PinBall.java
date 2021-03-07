@@ -110,7 +110,7 @@ public class PinBall {
             if (isLose) {
                 g.setColor(new Color(255,0,0));
                 g.setFont(new Font("Times", Font.BOLD, 25));
-                g.drawString("游戏结束！\n你的得分是"+score , 50, 200 );
+                g.drawString("游戏结束！"+score+"分" , 50, 200 );
             }
             else
             {
