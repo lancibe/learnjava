@@ -21,7 +21,7 @@ public class PinBall {
     Random rand = new Random();
 
     //小球纵向运行速度
-    private int ySpeed = 10;
+    private int ySpeed = 20;
     //返回一个-0.5~0.5的比率，用于控制小球的运行方向
     private double xyRate = rand.nextDouble() - 0.5;
     //小球横向运行速度
