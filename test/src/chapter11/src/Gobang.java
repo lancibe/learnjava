@@ -37,7 +37,7 @@ public class Gobang {
         table = ImageIO.read(new File("/home/lancibe/Pictures/board.jpg"));
         black = ImageIO.read(new File("/home/lancibe/Pictures/black.jpg"));
         white = ImageIO.read(new File("/home/lancibe/Pictures/white.jpg"));
-        selected = ImageIO.read(new File(""))
+        selected = ImageIO.read(new File(""));
     }
     class ChessBoard extends JPanel
     {
