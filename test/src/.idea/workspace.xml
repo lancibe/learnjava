@@ -2,47 +2,63 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ba75f0e-5033-4d64-95ee-94a1905bea53" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/chapter10/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/lancibe.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../learnjava/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../learnjava/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapte9/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/chapte9/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/src.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/src.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="ProjectId" id="1pF0vKjuPTiKhUBwhDIqVnD3grh" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../JSP&amp;Servlet" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../JSP&amp;Servlet/web/chapter2" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -57,24 +73,94 @@
       <option name="presentableId" value="Default" />
       <updated>1614763759350</updated>
       <workItem from="1614763760376" duration="692000" />
+      <workItem from="1614848160510" duration="2409000" />
+      <workItem from="1614927482776" duration="8848000" />
+      <workItem from="1614998903985" duration="4721000" />
+      <workItem from="1615018499575" duration="3817000" />
+      <workItem from="1615083521247" duration="14649000" />
+      <workItem from="1615192901441" duration="6997000" />
+      <workItem from="1615278857722" duration="2952000" />
+      <workItem from="1615366758522" duration="6187000" />
+      <workItem from="1615451616767" duration="4898000" />
+      <workItem from="1615544416074" duration="304000" />
+      <workItem from="1615515932756" duration="285000" />
+      <workItem from="1615516227025" duration="287000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="320" y="0" key="#Project_Structure" timestamp="1614763827654">
-      <screen x="0" y="0" width="1920" height="998" />
+    <state x="2510" y="202" key="#Inspections" timestamp="1615458108022">
+      <screen x="1920" y="0" width="1920" height="1080" />
     </state>
+    <state x="2510" y="202" key="#Inspections/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1615458108022" />
+    <state x="2380" y="115" width="1000" height="912" key="#Intentions" timestamp="1615104544811">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2380" y="115" width="1000" height="912" key="#Intentions/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1615104544811" />
+    <state x="320" y="0" key="#Project_Structure" timestamp="1614848225845">
+      <screen x="0" y="0" width="1920" height="1006" />
+    </state>
+    <state x="320" y="0" key="#Project_Structure/0.0.1920.1006@0.0.1920.1006" timestamp="1614848225845" />
     <state x="320" y="0" key="#Project_Structure/0.0.1920.998@0.0.1920.998" timestamp="1614763827654" />
-    <state x="686" y="195" key="FileChooserDialogImpl" timestamp="1614765644132">
-      <screen x="0" y="0" width="1920" height="998" />
+    <state x="2494" y="381" key="#Updates" timestamp="1615193457750">
+      <screen x="1920" y="0" width="1920" height="1080" />
     </state>
+    <state x="2494" y="381" key="#Updates/0.0.1920.1009/1920.0.1920.1080@1920.0.1920.1080" timestamp="1615193457750" />
+    <state x="2646" y="177" width="468" height="726" key="#com.intellij.ide.util.MemberChooser" timestamp="1615372972422">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2646" y="177" width="468" height="726" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1009/1920.0.1920.1080@1920.0.1920.1080" timestamp="1615370136539" />
+    <state x="2646" y="177" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1615372972422" />
+    <state x="2552" y="225" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1615370785968">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2552" y="225" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1615370785968" />
+    <state x="686" y="197" key="FileChooserDialogImpl" timestamp="1615516513525">
+      <screen x="0" y="0" width="1920" height="1009" />
+    </state>
+    <state x="686" y="197" key="FileChooserDialogImpl/0.0.1920.1009@0.0.1920.1009" timestamp="1615516513525" />
     <state x="686" y="195" key="FileChooserDialogImpl/0.0.1920.998@0.0.1920.998" timestamp="1614765644132" />
-    <state x="11" y="19" key="new project wizard" timestamp="1614763783124">
-      <screen x="0" y="0" width="1920" height="998" />
+    <state x="0" y="0" width="1920" height="1009" key="SettingsEditor" timestamp="1615516346877">
+      <screen x="0" y="0" width="1920" height="1009" />
     </state>
+    <state x="0" y="0" width="1920" height="1009" key="SettingsEditor/0.0.1920.1009@0.0.1920.1009" timestamp="1615516346877" />
+    <state x="2421" y="411" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1615194897520">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2421" y="411" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1615194897520" />
+    <state x="2020" y="100" width="1720" height="880" key="dock-window-1" timestamp="1615104231663">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2020" y="100" width="1720" height="880" key="dock-window-1/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1615104231663" />
+    <state x="267" y="264" width="1466" height="688" key="dock-window-2" timestamp="1615104231663">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="267" y="264" width="1466" height="688" key="dock-window-2/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1615104231663" />
+    <state x="2495" y="200" width="769" height="681" key="find.popup" timestamp="1615088982956">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="575" y="186" width="769" height="634" key="find.popup/0.0.1920.1006@0.0.1920.1006" timestamp="1614850558551" />
+    <state x="2495" y="200" width="769" height="681" key="find.popup/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1615088982956" />
+    <state x="1931" y="20" width="1897" height="959" key="new project wizard" timestamp="1615453847391">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="11" y="19" key="new project wizard/0.0.1920.1006@0.0.1920.1006" timestamp="1614848219481" />
+    <state x="1931" y="20" width="1897" height="959" key="new project wizard/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1615453847391" />
     <state x="11" y="19" key="new project wizard/0.0.1920.998@0.0.1920.998" timestamp="1614763783124" />
+    <state x="2460" y="241" key="run.anything.popup" timestamp="1615109265652">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2460" y="241" key="run.anything.popup/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1615109265652" />
+    <state x="2442" y="45" width="874" height="1034" key="search.everywhere.popup" timestamp="1615456640363">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2442" y="45" width="874" height="1034" key="search.everywhere.popup/0.0.1920.1009/1920.0.1920.1080@1920.0.1920.1080" timestamp="1615370047304" />
+    <state x="2442" y="45" width="874" height="1034" key="search.everywhere.popup/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1615456640363" />
   </component>
 </project>

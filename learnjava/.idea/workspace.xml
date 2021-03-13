@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b1459e7b-8fde-4bc5-a152-8250f3ed00c5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test.iml" beforeDir="false" />
-    </list>
+    <list default="true" id="b1459e7b-8fde-4bc5-a152-8250f3ed00c5" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,8 +40,9 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../test/src" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
@@ -96,6 +93,7 @@
       <workItem from="1602212820196" duration="1192000" />
       <workItem from="1602214152937" duration="1179000" />
       <workItem from="1602993335073" duration="1762000" />
+      <workItem from="1614848145304" duration="14000" />
     </task>
     <servers />
   </component>
@@ -106,102 +104,9 @@
     <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="255" y="107" width="1000" height="883" key="#Plugins" timestamp="1602210205179">
-      <screen x="0" y="27" width="1920" height="1006" />
+    <state x="686" y="199" key="FileChooserDialogImpl" timestamp="1614848159285">
+      <screen x="0" y="0" width="1920" height="1006" />
     </state>
-    <state x="255" y="107" width="1000" height="883" key="#Plugins/0.27.1920.1006@0.27.1920.1006" timestamp="1602210205179" />
-    <state x="467" y="106" width="1024" height="845" key="#Project_Structure" timestamp="1601207193895">
-      <screen x="0" y="27" width="1920" height="1006" />
-    </state>
-    <state x="467" y="106" width="1024" height="845" key="#Project_Structure/0.27.1920.1006/1920.0.1920.1080@0.27.1920.1006" timestamp="1601207193895" />
-    <state x="419" y="203" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602211499356">
-      <screen x="0" y="27" width="1920" height="1006" />
-    </state>
-    <state x="418" y="203" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1920.1006/1920.0.1920.1080@0.27.1920.1006" timestamp="1601207937301" />
-    <state x="419" y="203" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1920.1006@0.27.1920.1006" timestamp="1602211499356" />
-    <state x="322" y="384" width="710" height="427" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602996195496">
-      <screen x="0" y="27" width="1920" height="1006" />
-    </state>
-    <state x="322" y="384" width="710" height="427" key="#com.intellij.fileTypes.FileTypeChooser/0.27.1920.1006@0.27.1920.1006" timestamp="1602996195496" />
-    <state x="685" y="168" width="530" height="723" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1602212886050">
-      <screen x="0" y="27" width="1920" height="1006" />
-    </state>
-    <state x="685" y="168" width="530" height="723" key="#com.intellij.ide.macro.MacrosDialog/0.27.1920.1006@0.27.1920.1006" timestamp="1602212886050" />
-    <state x="627" y="277" width="655" height="548" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1601208204891">
-      <screen x="0" y="27" width="1920" height="1006" />
-    </state>
-    <state x="627" y="277" width="655" height="548" key="#com.intellij.ide.util.PackageChooserDialog/0.27.1920.1006/1920.0.1920.1080@0.27.1920.1006" timestamp="1601208204891" />
-    <state x="622" y="275" width="656" height="510" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1602212879699">
-      <screen x="0" y="27" width="1920" height="1006" />
-    </state>
-    <state x="622" y="275" width="656" height="510" key="#com.intellij.ide.util.TreeClassChooserDialog/0.27.1920.1006@0.27.1920.1006" timestamp="1602212879699" />
-    <state x="640" y="256" width="630" height="546" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1602209670079">
-      <screen x="0" y="27" width="1920" height="1006" />
-    </state>
-    <state x="640" y="256" width="630" height="546" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.27.1920.1006@0.27.1920.1006" timestamp="1602209670079" />
-    <state x="497" y="28" width="1096" height="1005" key="CommitChangelistDialog2" timestamp="1602213163513">
-      <screen x="0" y="27" width="1920" height="1006" />
-    </state>
-    <state x="497" y="28" width="920" height="1005" key="CommitChangelistDialog2/0.27.1920.1006/1920.0.1920.1080@0.27.1920.1006" timestamp="1601207252138" />
-    <state x="497" y="28" width="1096" height="1005" key="CommitChangelistDialog2/0.27.1920.1006@0.27.1920.1006" timestamp="1602213163513" />
-    <state x="769" y="245" width="370" height="572" key="EnvironmentVariablesDialog" timestamp="1602212894134">
-      <screen x="0" y="27" width="1920" height="1006" />
-    </state>
-    <state x="769" y="245" width="370" height="572" key="EnvironmentVariablesDialog/0.27.1920.1006@0.27.1920.1006" timestamp="1602212894134" />
-    <state x="695" y="252" width="530" height="633" key="FileChooserDialogImpl" timestamp="1602214238034">
-      <screen x="0" y="27" width="1920" height="1006" />
-    </state>
-    <state x="695" y="252" width="530" height="598" key="FileChooserDialogImpl/0.27.1920.1006/1920.0.1920.1080@0.27.1920.1006" timestamp="1601208281789" />
-    <state x="695" y="252" width="530" height="633" key="FileChooserDialogImpl/0.27.1920.1006@0.27.1920.1006" timestamp="1602214238034" />
-    <state width="1864" height="239" key="GridCell.Tab.0.bottom" timestamp="1602214011689">
-      <screen x="0" y="27" width="1920" height="1006" />
-    </state>
-    <state width="1864" height="239" key="GridCell.Tab.0.bottom/0.27.1920.1006@0.27.1920.1006" timestamp="1602214011689" />
-    <state width="1864" height="239" key="GridCell.Tab.0.center" timestamp="1602214011687">
-      <screen x="0" y="27" width="1920" height="1006" />
-    </state>
-    <state width="1864" height="239" key="GridCell.Tab.0.center/0.27.1920.1006@0.27.1920.1006" timestamp="1602214011687" />
-    <state width="1864" height="239" key="GridCell.Tab.0.left" timestamp="1602214011685">
-      <screen x="0" y="27" width="1920" height="1006" />
-    </state>
-    <state width="1864" height="239" key="GridCell.Tab.0.left/0.27.1920.1006@0.27.1920.1006" timestamp="1602214011685" />
-    <state width="1864" height="239" key="GridCell.Tab.0.right" timestamp="1602214011688">
-      <screen x="0" y="27" width="1920" height="1006" />
-    </state>
-    <state width="1864" height="239" key="GridCell.Tab.0.right/0.27.1920.1006@0.27.1920.1006" timestamp="1602214011688" />
-    <state width="932" height="297" key="GridCell.Tab.1.bottom" timestamp="1602212797562">
-      <screen x="0" y="27" width="1920" height="1006" />
-    </state>
-    <state width="932" height="297" key="GridCell.Tab.1.bottom/0.27.1920.1006@0.27.1920.1006" timestamp="1602212797562" />
-    <state width="932" height="297" key="GridCell.Tab.1.center" timestamp="1602212797560">
-      <screen x="0" y="27" width="1920" height="1006" />
-    </state>
-    <state width="932" height="297" key="GridCell.Tab.1.center/0.27.1920.1006@0.27.1920.1006" timestamp="1602212797560" />
-    <state width="932" height="297" key="GridCell.Tab.1.left" timestamp="1602212797560">
-      <screen x="0" y="27" width="1920" height="1006" />
-    </state>
-    <state width="932" height="297" key="GridCell.Tab.1.left/0.27.1920.1006@0.27.1920.1006" timestamp="1602212797560" />
-    <state width="932" height="297" key="GridCell.Tab.1.right" timestamp="1602212797561">
-      <screen x="0" y="27" width="1920" height="1006" />
-    </state>
-    <state width="932" height="297" key="GridCell.Tab.1.right/0.27.1920.1006@0.27.1920.1006" timestamp="1602212797561" />
-    <state x="279" y="86" width="1265" height="905" key="SettingsEditor" timestamp="1602212757325">
-      <screen x="0" y="27" width="1920" height="1006" />
-    </state>
-    <state x="511" y="107" key="SettingsEditor/0.27.1920.1006/1920.0.1920.1080@0.27.1920.1006" timestamp="1601208027603" />
-    <state x="279" y="86" width="1265" height="905" key="SettingsEditor/0.27.1920.1006@0.27.1920.1006" timestamp="1602212757325" />
-    <state x="535" y="285" width="800" height="531" key="Vcs.Push.Dialog.v2" timestamp="1602211485017">
-      <screen x="0" y="27" width="1920" height="1006" />
-    </state>
-    <state x="535" y="285" width="800" height="531" key="Vcs.Push.Dialog.v2/0.27.1920.1006/1920.0.1920.1080@0.27.1920.1006" timestamp="1601207245358" />
-    <state x="535" y="285" key="Vcs.Push.Dialog.v2/0.27.1920.1006@0.27.1920.1006" timestamp="1602211485017" />
-    <state x="550" y="193" width="810" height="671" key="new project wizard" timestamp="1602996240074">
-      <screen x="0" y="27" width="1920" height="1006" />
-    </state>
-    <state x="550" y="193" width="810" height="671" key="new project wizard/0.27.1920.1006@0.27.1920.1006" timestamp="1602996240074" />
-    <state x="545" y="249" key="run.anything.popup" timestamp="1601208172928">
-      <screen x="0" y="27" width="1920" height="1006" />
-    </state>
-    <state x="545" y="249" key="run.anything.popup/0.27.1920.1006/1920.0.1920.1080@0.27.1920.1006" timestamp="1601208172928" />
+    <state x="686" y="199" key="FileChooserDialogImpl/0.0.1920.1006@0.0.1920.1006" timestamp="1614848159285" />
   </component>
 </project>

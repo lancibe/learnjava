@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="exploded-war" name="JSP&amp;Servleet">
-    <output-path>$PROJECT_DIR$/out/artifacts/JSP_Servleet</output-path>
-    <root id="root">
-      <element id="dir-copy" path="$USER_HOME$/Downloads/apache-tomcat-10.0.2/webapps" />
-    </root>
-  </artifact>
-</component>

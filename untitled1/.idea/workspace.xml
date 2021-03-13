@@ -1,0 +1,860 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="untitled1:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e7b557d4-5cde-46d9-8543-1ce4930a1248" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../test/src/out/production/chapter11/src.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/.idea/JSP&amp;Servlet.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/.idea/artifacts/JSP_Servleet.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/.idea/artifacts/JSP_Servlet_war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/ROOT/RELEASE-NOTES.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/ROOT/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/ROOT/asf-logo-wide.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/ROOT/bg-button.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/ROOT/bg-middle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/ROOT/bg-nav.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/ROOT/bg-upper.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/ROOT/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/ROOT/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/ROOT/tomcat.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/ROOT/tomcat.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/BUILDING.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/RELEASE-NOTES.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/RUNNING.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/aio.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/annotationapi/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/api/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/appdev/build.xml.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/appdev/deployment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/appdev/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/appdev/installation.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/appdev/introduction.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/appdev/processes.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/appdev/sample/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/appdev/sample/docs/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/appdev/sample/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/appdev/sample/sample.war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/appdev/sample/src/mypackage/Hello.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/appdev/sample/web/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/appdev/sample/web/hello.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/appdev/sample/web/images/tomcat.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/appdev/sample/web/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/appdev/source.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/appdev/web.xml.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/apr.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/architecture/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/architecture/overview.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/architecture/requestProcess.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/architecture/requestProcess/authentication-process.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/architecture/requestProcess/request-process.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/architecture/startup.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/architecture/startup/serverStartup.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/architecture/startup/serverStartup.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/balancer-howto.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/building.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/cdi.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/cgi-howto.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/changelog.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/class-loader-howto.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/cluster-howto.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/comments.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/config/ajp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/config/automatic-deployment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/config/cluster-channel.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/config/cluster-deployer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/config/cluster-interceptor.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/config/cluster-listener.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/config/cluster-manager.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/config/cluster-membership.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/config/cluster-receiver.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/config/cluster-sender.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/config/cluster-valve.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/config/cluster.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/config/context.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/config/cookie-processor.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/config/credentialhandler.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/config/engine.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/config/executor.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/config/filter.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/config/globalresources.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/config/host.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/config/http.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/config/http2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/config/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/config/jar-scan-filter.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/config/jar-scanner.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/config/jaspic.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/config/listeners.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/config/loader.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/config/manager.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/config/realm.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/config/resources.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/config/server.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/config/service.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/config/sessionidgenerator.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/config/systemprops.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/config/valve.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/connectors.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/default-servlet.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/deployer-howto.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/developers.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/elapi/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/graal.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/host-manager-howto.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/html-host-manager-howto.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/html-manager-howto.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/images/add.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/images/asf-logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/images/code.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/images/cors-flowchart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/images/design.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/images/docs-stylesheet.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/images/docs.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/images/fix.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/images/fonts/OpenSans400.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/images/fonts/OpenSans400italic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/images/fonts/OpenSans600.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/images/fonts/OpenSans600italic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/images/fonts/OpenSans700.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/images/fonts/OpenSans700italic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/images/fonts/fonts.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/images/tomcat.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/images/tomcat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/images/update.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/images/void.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/introduction.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/jasper-howto.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/jaspicapi/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/jdbc-pool.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/jndi-datasource-examples-howto.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/jndi-resources-howto.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/jspapi/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/logging.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/manager-howto.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/maven-jars.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/mbeans-descriptors-howto.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/mbeans-descriptors.dtd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/monitoring.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/proxy-howto.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/realm-howto.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/rewrite.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/security-howto.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/security-manager-howto.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/servletapi/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/setup.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/ssi-howto.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/ssl-howto.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/tribes/developers.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/tribes/faq.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/tribes/interceptors.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/tribes/introduction.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/tribes/membership.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/tribes/setup.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/tribes/status.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/tribes/transport.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/virtual-hosting-howto.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/web-socket-howto.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/websocketapi/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/windows-auth-howto.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/docs/windows-service-howto.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/META-INF/context.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/CookieExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/CookieExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/HelloWorldExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/HelloWorldExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/LocalStrings.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/LocalStrings_cs.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/LocalStrings_de.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/LocalStrings_es.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/LocalStrings_fr.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/LocalStrings_ja.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/LocalStrings_ko.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/LocalStrings_pt.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/LocalStrings_pt_BR.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/LocalStrings_ru.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/LocalStrings_zh_CN.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/RequestHeaderExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/RequestHeaderExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/RequestInfoExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/RequestInfoExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/RequestParamExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/RequestParamExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/ServletToJsp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/ServletToJsp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/SessionExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/SessionExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/async/Async0$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/async/Async0.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/async/Async0.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/async/Async1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/async/Async1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/async/Async1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/async/Async2$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/async/Async2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/async/Async2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/async/Async3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/async/Async3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/async/AsyncStockContextListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/async/AsyncStockContextListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/async/AsyncStockServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/async/AsyncStockServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/async/Stockticker$Stock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/async/Stockticker$TickListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/async/Stockticker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/async/Stockticker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/cal/Entries.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/cal/Entries.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/cal/Entry.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/cal/Entry.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/cal/JspCalendar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/cal/JspCalendar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/cal/TableBean.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/cal/TableBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/checkbox/CheckTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/checkbox/CheckTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/colors/ColorGameBean.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/colors/ColorGameBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/compressionFilters/CompressionFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/compressionFilters/CompressionFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/compressionFilters/CompressionFilterTestServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/compressionFilters/CompressionFilterTestServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/compressionFilters/CompressionResponseStream.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/compressionFilters/CompressionResponseStream.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/compressionFilters/CompressionServletResponseWrapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/compressionFilters/CompressionServletResponseWrapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/dates/JspCalendar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/dates/JspCalendar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/error/Smart.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/error/Smart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/examples/ExampleTagBase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/examples/ExampleTagBase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/examples/FooTag.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/examples/FooTag.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/examples/FooTagExtraInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/examples/FooTagExtraInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/examples/LogTag.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/examples/LogTag.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/examples/ValuesTag.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/examples/ValuesTag.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/filters/ExampleFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/filters/ExampleFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/http2/SimpleImagePush.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/http2/SimpleImagePush.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/jsp2/examples/BookBean.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/jsp2/examples/BookBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/jsp2/examples/FooBean.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/jsp2/examples/FooBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/jsp2/examples/ValuesBean.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/jsp2/examples/ValuesBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/jsp2/examples/el/Functions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/jsp2/examples/el/Functions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/jsp2/examples/simpletag/EchoAttributesTag.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/jsp2/examples/simpletag/EchoAttributesTag.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/jsp2/examples/simpletag/FindBookSimpleTag.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/jsp2/examples/simpletag/FindBookSimpleTag.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/jsp2/examples/simpletag/HelloWorldSimpleTag.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/jsp2/examples/simpletag/HelloWorldSimpleTag.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/jsp2/examples/simpletag/RepeatSimpleTag.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/jsp2/examples/simpletag/RepeatSimpleTag.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/jsp2/examples/simpletag/ShuffleSimpleTag.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/jsp2/examples/simpletag/ShuffleSimpleTag.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/jsp2/examples/simpletag/TileSimpleTag.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/jsp2/examples/simpletag/TileSimpleTag.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/listeners/ContextListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/listeners/ContextListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/listeners/SessionListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/listeners/SessionListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/nonblocking/ByteCounter$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/nonblocking/ByteCounter$CounterListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/nonblocking/ByteCounter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/nonblocking/ByteCounter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/nonblocking/NumberWriter$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/nonblocking/NumberWriter$NumberWriterListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/nonblocking/NumberWriter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/nonblocking/NumberWriter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/num/NumberGuessBean.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/num/NumberGuessBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/sessions/DummyCart.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/sessions/DummyCart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/trailers/ResponseTrailers$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/trailers/ResponseTrailers$TrailerFieldSupplier.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/trailers/ResponseTrailers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/trailers/ResponseTrailers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/util/CookieFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/util/CookieFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/util/HTMLFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/util/HTMLFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/validators/DebugValidator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/validators/DebugValidator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/websocket/ExamplesConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/websocket/ExamplesConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/websocket/chat/ChatAnnotation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/websocket/chat/ChatAnnotation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/websocket/drawboard/Client$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/websocket/drawboard/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/websocket/drawboard/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/websocket/drawboard/DrawMessage$ParseException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/websocket/drawboard/DrawMessage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/websocket/drawboard/DrawMessage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/websocket/drawboard/DrawboardContextListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/websocket/drawboard/DrawboardContextListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/websocket/drawboard/DrawboardEndpoint$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/websocket/drawboard/DrawboardEndpoint$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/websocket/drawboard/DrawboardEndpoint$3$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/websocket/drawboard/DrawboardEndpoint$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/websocket/drawboard/DrawboardEndpoint.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/websocket/drawboard/DrawboardEndpoint.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/websocket/drawboard/Room$1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/websocket/drawboard/Room$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/websocket/drawboard/Room$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/websocket/drawboard/Room$MessageType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/websocket/drawboard/Room$Player.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/websocket/drawboard/Room.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/websocket/drawboard/Room.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/websocket/drawboard/wsmessages/AbstractWebsocketMessage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/websocket/drawboard/wsmessages/AbstractWebsocketMessage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/websocket/drawboard/wsmessages/BinaryWebsocketMessage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/websocket/drawboard/wsmessages/BinaryWebsocketMessage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/websocket/drawboard/wsmessages/CloseWebsocketMessage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/websocket/drawboard/wsmessages/CloseWebsocketMessage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/websocket/drawboard/wsmessages/StringWebsocketMessage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/websocket/drawboard/wsmessages/StringWebsocketMessage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/websocket/echo/EchoAnnotation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/websocket/echo/EchoAnnotation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/websocket/echo/EchoAsyncAnnotation$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/websocket/echo/EchoAsyncAnnotation$CompletedFuture.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/websocket/echo/EchoAsyncAnnotation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/websocket/echo/EchoAsyncAnnotation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/websocket/echo/EchoEndpoint$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/websocket/echo/EchoEndpoint$EchoMessageHandlerBinary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/websocket/echo/EchoEndpoint$EchoMessageHandlerText.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/websocket/echo/EchoEndpoint.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/websocket/echo/EchoEndpoint.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/websocket/echo/EchoStreamAnnotation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/websocket/echo/EchoStreamAnnotation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/websocket/echo/servers.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/websocket/snake/Direction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/websocket/snake/Direction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/websocket/snake/Location$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/websocket/snake/Location.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/websocket/snake/Location.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/websocket/snake/Snake.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/websocket/snake/Snake.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/websocket/snake/SnakeAnnotation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/websocket/snake/SnakeAnnotation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/websocket/snake/SnakeTimer$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/websocket/snake/SnakeTimer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/classes/websocket/snake/SnakeTimer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/jsp/applet/Clock2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/jsp/debug-taglib.tld" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/jsp/example-taglib.tld" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/jsp2/jsp2-example-taglib.tld" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/lib/taglibs-standard-impl-1.2.5-migrated-0.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/lib/taglibs-standard-spec-1.2.5-migrated-0.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/tags/displayProducts.tag" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/tags/helloWorld.tag" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/tags/panel.tag" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/async/async1.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/async/async1.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/async/async3.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/async/async3.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/async/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/async/index.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/cal/Entries.java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/cal/Entry.java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/cal/JspCalendar.java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/cal/TableBean.java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/cal/cal1.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/cal/cal1.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/cal/cal2.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/cal/cal2.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/cal/calendar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/cal/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/checkbox/CheckTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/checkbox/check.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/checkbox/checkresult.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/checkbox/checkresult.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/checkbox/cresult.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/colors/ColorGameBean.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/colors/clr.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/colors/colors.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/colors/colrs.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/colors/colrs.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/dates/date.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/dates/date.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/dates/date.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/error/er.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/error/err.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/error/err.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/error/error.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/error/errorpge.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/error/errorpge.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/forward/forward.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/forward/forward.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/forward/fwd.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/forward/one.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/forward/one.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/forward/two.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/images/code.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/images/execute.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/images/return.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/include/foo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/include/foo.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/include/foo.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/include/inc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/include/include.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/include/include.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/jsp2/el/Functions.java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/jsp2/el/ValuesBean.java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/jsp2/el/ValuesTag.java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/jsp2/el/basic-arithmetic.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/jsp2/el/basic-arithmetic.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/jsp2/el/basic-arithmetic.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/jsp2/el/basic-comparisons.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/jsp2/el/basic-comparisons.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/jsp2/el/basic-comparisons.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/jsp2/el/composite.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/jsp2/el/composite.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/jsp2/el/composite.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/jsp2/el/functions.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/jsp2/el/functions.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/jsp2/el/functions.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/jsp2/el/implicit-objects.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/jsp2/el/implicit-objects.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/jsp2/el/implicit-objects.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/jsp2/jspattribute/FooBean.java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/jsp2/jspattribute/HelloWorldSimpleTag.java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/jsp2/jspattribute/ShuffleSimpleTag.java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/jsp2/jspattribute/TileSimpleTag.java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/jsp2/jspattribute/jspattribute.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/jsp2/jspattribute/jspattribute.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/jsp2/jspattribute/jspattribute.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/jsp2/jspattribute/shuffle.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/jsp2/jspattribute/shuffle.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/jsp2/jspattribute/shuffle.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/jsp2/jspx/basic.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/jsp2/jspx/basic.jspx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/jsp2/jspx/basic.jspx.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/jsp2/jspx/svgexample.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/jsp2/jspx/textRotate.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/jsp2/jspx/textRotate.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/jsp2/jspx/textRotate.jspx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/jsp2/jspx/textRotate.jspx.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/jsp2/misc/EchoAttributesTag.java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/jsp2/misc/coda.jspf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/jsp2/misc/coda.jspf.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/jsp2/misc/config.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/jsp2/misc/config.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/jsp2/misc/config.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/jsp2/misc/dynamicattrs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/jsp2/misc/dynamicattrs.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/jsp2/misc/dynamicattrs.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/jsp2/misc/prelude.jspf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/jsp2/misc/prelude.jspf.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/jsp2/simpletag/BookBean.java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/jsp2/simpletag/FindBookSimpleTag.java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/jsp2/simpletag/Functions.java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/jsp2/simpletag/HelloWorldSimpleTag.java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/jsp2/simpletag/RepeatSimpleTag.java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/jsp2/simpletag/book.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/jsp2/simpletag/book.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/jsp2/simpletag/book.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/jsp2/simpletag/hello.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/jsp2/simpletag/hello.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/jsp2/simpletag/hello.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/jsp2/simpletag/repeat.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/jsp2/simpletag/repeat.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/jsp2/simpletag/repeat.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/jsp2/tagfiles/displayProducts.tag.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/jsp2/tagfiles/hello.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/jsp2/tagfiles/hello.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/jsp2/tagfiles/hello.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/jsp2/tagfiles/helloWorld.tag.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/jsp2/tagfiles/panel.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/jsp2/tagfiles/panel.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/jsp2/tagfiles/panel.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/jsp2/tagfiles/panel.tag.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/jsp2/tagfiles/products.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/jsp2/tagfiles/products.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/jsp2/tagfiles/products.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/jsptoserv/ServletToJsp.java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/jsptoserv/hello.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/jsptoserv/hello.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/jsptoserv/jsptoservlet.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/jsptoserv/jsptoservlet.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/jsptoserv/jts.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/num/numguess.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/num/numguess.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/num/numguess.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/plugin/applet/Clock2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/plugin/applet/Clock2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/plugin/plugin.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/plugin/plugin.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/plugin/plugin.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/security/protected/error.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/security/protected/error.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/security/protected/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/security/protected/index.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/security/protected/login.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/security/protected/login.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/sessions/DummyCart.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/sessions/carts.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/sessions/carts.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/sessions/carts.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/sessions/crt.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/simpletag/foo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/simpletag/foo.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/simpletag/foo.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/snp/snoop.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/snp/snoop.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/snp/snoop.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/tagplugin/choose.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/tagplugin/choose.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/tagplugin/choose.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/tagplugin/foreach.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/tagplugin/foreach.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/tagplugin/foreach.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/tagplugin/howto.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/tagplugin/if.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/tagplugin/if.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/tagplugin/if.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/tagplugin/notes.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/xml/xml.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/xml/xml.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/jsp/xml/xml.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/servlets/cookies.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/servlets/helloworld.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/servlets/images/code.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/servlets/images/execute.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/servlets/images/return.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/servlets/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/servlets/nonblocking/bytecounter.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/servlets/reqheaders.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/servlets/reqinfo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/servlets/reqparams.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/servlets/sessions.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/websocket/chat.xhtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/websocket/drawboard.xhtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/websocket/echo.xhtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/websocket/index.xhtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/examples/websocket/snake.xhtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/host-manager/META-INF/context.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/host-manager/WEB-INF/jsp/401.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/host-manager/WEB-INF/jsp/403.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/host-manager/WEB-INF/jsp/404.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/host-manager/WEB-INF/manager.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/host-manager/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/host-manager/css/manager.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/host-manager/images/asf-logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/host-manager/images/tomcat.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/host-manager/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/manager/META-INF/context.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/manager/WEB-INF/jsp/401.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/manager/WEB-INF/jsp/403.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/manager/WEB-INF/jsp/404.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/manager/WEB-INF/jsp/connectorCerts.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/manager/WEB-INF/jsp/connectorCiphers.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/manager/WEB-INF/jsp/connectorTrustedCerts.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/manager/WEB-INF/jsp/sessionDetail.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/manager/WEB-INF/jsp/sessionsList.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/manager/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/manager/css/manager.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/manager/images/asf-logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/manager/images/tomcat.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/manager/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/manager/status.xsd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/out/artifacts/JSP_Servleet/manager/xform.xsl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/web/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSP&amp;Servlet/web/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learnjava/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../learnjava/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/src/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../test/src/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/src/.idea/src.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../test/src/.idea/src.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/src/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../test/src/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1pgltbZHHPfuGq8DGCwGAo4tkDN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JSP&amp;Servlet" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.11803278" />
+    <property name="project.structure.side.proportion" value="0.29166666" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/web/WEB-INF/lib" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="JSP&amp;Servlet" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="JSP&amp;Servlet" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tomcat-9" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="tomcat-9" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/untitled1_war_exploded/" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="untitled1:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/untitled1_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_untitled1" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="32893" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="untitled1:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e7b557d4-5cde-46d9-8543-1ce4930a1248" name="Default Changelist" comment="" />
+      <created>1615612829499</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615612829499</updated>
+      <workItem from="1615612830572" duration="1610000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2291" y="129" width="1152" height="849" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1615614215881">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2291" y="129" width="1152" height="849" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1615614215881" />
+    <state x="2368" y="143" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1615612944958">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2368" y="143" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1615612944958" />
+    <state x="2587" y="168" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable" timestamp="1615612957536">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2587" y="168" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1615612957536" />
+    <state x="2606" y="235" key="FileChooserDialogImpl" timestamp="1615614435547">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2606" y="235" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1615614435547" />
+    <state width="1280" height="269" key="GridCell.Tab.0.bottom" timestamp="1615614440071">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1280" height="269" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1615614440071" />
+    <state width="1280" height="269" key="GridCell.Tab.0.center" timestamp="1615614440071">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1280" height="269" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1615614440071" />
+    <state width="1280" height="269" key="GridCell.Tab.0.left" timestamp="1615614440071">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1280" height="269" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1615614440071" />
+    <state width="1280" height="269" key="GridCell.Tab.0.right" timestamp="1615614440071">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1280" height="269" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1615614440071" />
+    <state width="1280" height="269" key="GridCell.Tab.1.bottom" timestamp="1615614440071">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1280" height="269" key="GridCell.Tab.1.bottom/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1615614440071" />
+    <state width="1280" height="269" key="GridCell.Tab.1.center" timestamp="1615614440071">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1280" height="269" key="GridCell.Tab.1.center/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1615614440071" />
+    <state width="1280" height="269" key="GridCell.Tab.1.left" timestamp="1615614440071">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1280" height="269" key="GridCell.Tab.1.left/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1615614440071" />
+    <state width="1280" height="269" key="GridCell.Tab.1.right" timestamp="1615614440071">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1280" height="269" key="GridCell.Tab.1.right/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1615614440071" />
+    <state width="1280" height="269" key="GridCell.Tab.2.bottom" timestamp="1615614440071">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1280" height="269" key="GridCell.Tab.2.bottom/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1615614440071" />
+    <state width="1280" height="269" key="GridCell.Tab.2.center" timestamp="1615614440071">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1280" height="269" key="GridCell.Tab.2.center/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1615614440071" />
+    <state width="1280" height="269" key="GridCell.Tab.2.left" timestamp="1615614440071">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1280" height="269" key="GridCell.Tab.2.left/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1615614440071" />
+    <state width="1280" height="269" key="GridCell.Tab.2.right" timestamp="1615614440071">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1280" height="269" key="GridCell.Tab.2.right/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1615614440071" />
+    <state x="2240" y="10" key="SettingsEditor" timestamp="1615614391198">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2240" y="10" key="SettingsEditor/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1615614391198" />
+  </component>
+</project>
