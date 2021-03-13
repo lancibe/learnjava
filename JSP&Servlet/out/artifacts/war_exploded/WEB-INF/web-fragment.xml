@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<web-fragment xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee
+              http://xmlns.jcp.org/xml/ns/javaee/web-fragment_3_1.xsd"
+              version="3.1">
+    <name>WebFragment1</name>
+    <servlet>
+        <servlet-name>hi</servlet-name>
+        <servlet-class>chapter2.HelloServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>hi</servlet-name>
+        <url-pattern>/hi.view</url-pattern>
+    </servlet-mapping>
+</web-fragment>
