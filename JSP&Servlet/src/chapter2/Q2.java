@@ -25,11 +25,9 @@ public class Q2 extends HttpServlet {
             out.println("<body>");
             out.println("用户名:<input type=text name=username><br>");
             out.println("密&emsp;码:<input type=password name=password><br>");
-            out.println("<a href=\"/war_exploded/q2\"><input type=submit value=登陆></a><br>");
-            out.println("</body>");
-            out.println("</html>");
 
-            /*
+
+
             Enumeration<String> names = req.getParameterNames();
             String finalName = new String();
             String finalPassword = new String();
@@ -44,11 +42,17 @@ public class Q2 extends HttpServlet {
                     finalPassword=value;
             }
             if(finalName.equals("lancibe") && finalPassword.equals("123456"))
+            {
+
+            }
                 resp.sendRedirect("./success.html");
             else
                 resp.sendRedirect("./fail.html");
 
-             */
+
+            out.println("<a href=\"/war_exploded/q2_check?user="+ finalName +"&psw="+ finalPassword +"\"><input type=\"button\" value=登陆></a><br>");
+            out.println("</body>");
+            out.println("</html>");
         }
         catch (Exception ee)
         {
