@@ -25,15 +25,14 @@ public class UploadServlet2 extends HttpServlet {
     private String getFilename(Part part)
     {
         String header = part.getHeader("Content-Disposition");
-        String filename = header.substring(header.indexOf("filename=\"") +10, header.lastIndexOf("\""));
-        return filename;
+        return header.substring(header.indexOf("filename=\"") +10, header.lastIndexOf("\""));
     }
     private void writeTo(String filename, Part part) throws IOException
     {
         InputStream in = part.getInputStream();
         OutputStream out = new FileOutputStream("/home/lancibe/Desktop" + filename);
         byte[] buffer = new byte[1024];
-        int length = -1;
+        int length;
         while ((length = in.read(buffer)) != -1)
         {
             out.write(buffer, 0, length);
