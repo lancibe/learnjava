@@ -5,7 +5,6 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.io.PrintWriter;
-import java.util.Enumeration;
 
 @WebServlet("/q2login.view")
 public class Q2 extends HttpServlet {
@@ -16,7 +15,7 @@ public class Q2 extends HttpServlet {
             resp.setContentType("text/html;charset=UTF-8");
             PrintWriter out = resp.getWriter();
 
-            String name = req.getParameter("name");
+            String name = req.getParameter("username");
             String pwd = req.getParameter("password");
             if(name.equals("lancibe") && pwd.equals("123456"))
                 resp.sendRedirect("pass.html");
