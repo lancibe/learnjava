@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class HelloModel {
-    private Map<String, String> messages = new HashMap<>();
+    private Map<String, String> messages = new HashMap<String, String>();
     public HelloModel()
     {
         messages.put("fei", "Hello");
