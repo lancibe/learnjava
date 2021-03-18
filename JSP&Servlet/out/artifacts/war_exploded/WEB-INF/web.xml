@@ -12,6 +12,14 @@
         <servlet-name>HelloServlet</servlet-name>
         <url-pattern>/helloUser.view</url-pattern>
     </servlet-mapping>
+
+    <locale-encoding-mapping-list>
+        <locale-encoding-mapping>
+            <locale>zh_CN</locale>
+            <encoding>UTF-8</encoding>
+        </locale-encoding-mapping>
+    </locale-encoding-mapping-list>
+
     <welcome-file-list>
         <welcome-file>test.html</welcome-file>
         <welcome-file>index.html</welcome-file>
