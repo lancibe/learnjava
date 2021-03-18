@@ -16,8 +16,8 @@ public class Download extends HttpServlet {
         String passwd = req.getParameter("passwd");
         if("123456".equals(passwd))
         {
-            resp.setContentType("application/html");//设置内容类型
-            InputStream in = getServletContext().getResourceAsStream("/WEB-INF/test.html");//取得输入串流
+            resp.setContentType("application/pdf");//设置内容类型
+            InputStream in = getServletContext().getResourceAsStream("/WEB-INF/test.pdf");//取得输入串流
             OutputStream out = resp.getOutputStream();//取得输出串流
             writeBytes(in, out);//读取文件并输出至浏览器
         }
