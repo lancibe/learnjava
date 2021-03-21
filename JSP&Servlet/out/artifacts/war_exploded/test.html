@@ -1,21 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <title>login</title>
+    <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+    <title>Cookie Demo login</title>
 </head>
 <body>
-<h1>请输入账号、密码</h1>
-账号：<input type="text" name="username"><br>
-密码：<input type="password" name="password"><br>
-<script>
-    function changeVerifyCode(){
-        document.getElementById("validateCodeImg".src="chapter3.q2"+MATH.random())
-    }
-</script>
-<input id=txtSN size=4 name=txtSN>
-<img src="<%=basePath%>chapter3.q2" border=0 id="validateCodeImg" style="height: 25px; width: 57px"/><a href="#" οnclick="changeVerifyCode()">看不清？换一张</a></TD>
-<input type="submit" name="提交">
+<form action="CookieDemoIndex.do" method="post">
+    名称：<input name="user" type="text"><br>
+    密码：<input name="passwd" type="password"><br>
+    <input name="login" type="radio" value="auto" checked="checked">
+    <input type="submit" value="提交">
+</form>
 
 </body>
 </html>
