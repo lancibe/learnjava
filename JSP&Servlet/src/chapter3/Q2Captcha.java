@@ -8,12 +8,12 @@ import java.io.OutputStream;
 import java.util.Random;
 
 public class Q2Captcha {
-    private int weigh = 50;
-    private int height = 25;
-    private Random random = new Random();
-    private String[] fontNames = {"Source Code Pro", "FreeMono", "Courier New", "Times New Roman"};
-    private String codes = "1234567890abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
-    private Color backgroundColor = new Color(255,255,255);
+    private final int weigh = 50;
+    private final int height = 25;
+    private final Random random = new Random();
+    private final String[] fontNames = {"Source Code Pro", "FreeMono", "Courier New", "Times New Roman"};
+    private final String codes = "1234567890abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
+    private final Color backgroundColor = new Color(255,255,255);
     private String text;
 
     private Color randomColor()
