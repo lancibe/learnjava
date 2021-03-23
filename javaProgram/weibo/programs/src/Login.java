@@ -10,24 +10,25 @@ import java.io.IOException;
 
 @WebServlet("/login.do")
 public class Login extends HttpServlet {
+    private final String USERS= "/home/lancibe/java/javaProgram/weibo/programs/users";
+    private final String SUCCESS_VIEW = "member.view";
+    private final String ERROR_VIEW = "index.html";
     @Override
     protected void doPost(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
         String username = req.getParameter("username");
         String password = req.getParameter("password");
-        String ERROR_VIEW = "index.html";
+        String page = ERROR_VIEW;
         if(checkLogin(username, password))
         {
-            String SUCCESS_VIEW = "member.view";
-            req.getRequestDispatcher(SUCCESS_VIEW).forward(req, resp);
+            req.getSession().setAttribute("login", username);
+            page = SUCCESS_VIEW;
         }
-        else
-            resp.sendRedirect(ERROR_VIEW);
+        resp.sendRedirect(page);
     }
     private boolean checkLogin(String username, String password) throws IOException
     {
         if(username != null && password != null)
         {
-            String USERS = "/home/lancibe/java/javaProgram/weibo/programs/users";
             for(String file : new File(USERS).list())
             {
                 if(file.equals(username))
