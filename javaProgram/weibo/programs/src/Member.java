@@ -3,9 +3,7 @@ import java.util.*;
 import java.io.*;
 
 import java.io.PrintWriter;
-import java.util.Arrays;
 import java.util.Date;
-import java.util.List;
 import java.util.Map;
 
 import javax.servlet.ServletException;
@@ -16,7 +14,7 @@ import javax.servlet.http.HttpServletResponse;
 
 @WebServlet("/member.view")
 public class Member extends HttpServlet {
-    private final String USERS = "c:/workspace/Gossip/users";
+    private final String USERS= "/home/lancibe/java/javaProgram/weibo/programs/users";
     private final String LOGIN_VIEW = "index.html";
 
     protected void processRequest(HttpServletRequest request,
@@ -34,24 +32,21 @@ public class Member extends HttpServlet {
         out.println("<html>");
         out.println("<head>");
         out.println("  <meta content='text/html; charset=UTF-8' http-equiv='content-type'>");
-        out.println("<title>Gossip 微网志</title>");
+        out.println("<title>Gossip</title>");
         out.println("<link rel='stylesheet' href='css/member.css' type='text/css'>");
         out.println("</head>");
         out.println("<body>");
 
-        out.println("<div class='leftPanel'>");
-        out.println("<img src='images/caterpillar.jpg' alt='Gossip 微网志' /><br><br>");
 
-        /*  实作步骤1 */
-
-        out.println("</div>");
+        out.println("<a href='logout.do?username="+username+"'>注销"+username+"</a>");
         out.println("<form method='post' action='message.do'>");
         out.println("分享新鲜事...<br>");
-
-
-        /*  实作步骤2 */
-
-        out.println("<br>");
+        String blabla = request.getParameter("blabla");
+        if(blabla == null)
+            blabla="";
+        else
+            out.println("信息要在140字以内<br>");
+        out.println("<textarea cols='60' rows='4' name='blabla'>"+ blabla +"</textarea><br>");
         out.println("<button type='submit'>送出</button>");
         out.println("</form>");
         out.println("<table style='text-align: left; width: 510px; height: 88px;' border='0' cellpadding='2' cellspacing='2'>");
@@ -59,9 +54,17 @@ public class Member extends HttpServlet {
         out.println("<tr><th><hr></th></tr>");
         out.println("</thead>");
         out.println("<tbody>");
-
-
-        /*  实作步骤3 */
+        Map<Date, String> messages = readMessage(username);
+        DateFormat dateFormat = DateFormat.getDateTimeInstance(DateFormat.FULL, DateFormat.FULL, Locale.CHINA);
+        for(Date date : messages.keySet())
+        {
+            out.println("<tr><td style='vertical-align: top;'>");
+            out.println(username + "<br>");
+            out.println(messages.get(date) +"<br>");
+            out.println(dateFormat.format(date));
+            out.println("<a href='delete.do?message=" + date.getTime() + "'>删除</a>");
+            out.println("<hr></td></tr>");
+        }
 
         out.println("</tbody>");
         out.println("</table>");
