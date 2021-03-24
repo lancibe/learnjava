@@ -2,11 +2,11 @@ package chapter5;
 
 import javax.servlet.ServletContext;
 import javax.servlet.ServletContextEvent;
+import javax.servlet.ServletContextListener;
 import javax.servlet.annotation.WebListener;
-import javax.servlet.http.HttpServlet;
 
 @WebListener // 使用@WebListener标注
-public class ContextParameterReader extends HttpServlet {
+public class ContextParameterReader implements ServletContextListener {
     public void contextInitialized(ServletContextEvent sce)
     {
         ServletContext context = sce.getServletContext();
