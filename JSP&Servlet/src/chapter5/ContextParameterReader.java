@@ -5,7 +5,7 @@ import javax.servlet.ServletContextEvent;
 import javax.servlet.ServletContextListener;
 import javax.servlet.annotation.WebListener;
 
-@WebListener // 使用@WebListener标注
+@WebListener() // 使用@WebListener标注
 public class ContextParameterReader implements ServletContextListener {
     public void contextInitialized(ServletContextEvent sce)
     {
