@@ -9,18 +9,13 @@ import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 import java.io.PrintWriter;
 
-@WebServlet(
-        urlPatterns = {"/avatar.view"},
-        initParams = {
-                @WebInitParam(name = "AVATAR_DIR", value = "/avatars")
-        }
-)
+@WebServlet(urlPatterns = "/avatar.view")
 public class Avatar extends HttpServlet {
     private String AVATAR_DIR;
 
     @Override
     public void init() throws ServletException {
-        AVATAR_DIR = getInitParameter("AVATAR_DIR");
+        AVATAR_DIR = (String)getServletContext().getAttribute("avatars");
     }
 
     @Override
