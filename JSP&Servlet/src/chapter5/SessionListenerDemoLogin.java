@@ -28,7 +28,7 @@ public class SessionListenerDemoLogin extends HttpServlet {
         if(users.containsKey(name) && users.get(name).equals(passwd))
         {
             req.getSession().setAttribute("user", name);
-            page = "welcome.view";
+            page = "SessionListenerDemoWelcome.view";
         }
         resp.sendRedirect(page);
     }

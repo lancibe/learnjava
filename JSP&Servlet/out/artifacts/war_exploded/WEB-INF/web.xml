@@ -8,18 +8,7 @@
         <servlet-class>chapter2.HelloServlet</servlet-class>
         <load-on-startup>1</load-on-startup>
     </servlet>
-    <servlet>
-        <servlet-name>ServletConfigDemo</servlet-name>
-        <servlet-class>chapter5.ServletConfigDemo</servlet-class>
-        <init-param>
-            <param-name>PARAM1</param-name>
-            <param-value>VALUE1</param-value>
-        </init-param>
-        <init-param>
-            <param-name>PARAM2</param-name>
-            <param-value>VALUE2</param-value>
-        </init-param>
-    </servlet>
+
     <servlet-mapping>
         <servlet-name>HelloServlet</servlet-name>
         <url-pattern>/helloUser.view</url-pattern>
