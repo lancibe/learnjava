@@ -13,6 +13,7 @@ import java.util.Map;
 public class SessionListenerDemo2Login extends HttpServlet {
     private Map<String, String> users;
 
+
     public SessionListenerDemo2Login(){
         users = new HashMap<String, String>();
         users.put("lancibe", "123456");
