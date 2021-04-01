@@ -19,8 +19,6 @@ import java.util.Date;
         }
 )
 public class Message extends HttpServlet {
-    private final String USERS= "/home/lancibe/java/javaProgram/weibo/programs/users";
-    private final String LOGIN_VIEW = "index.html";
     private String SUCCESS_VIEW;
     private String ERROR_VIEW;
 
@@ -32,12 +30,6 @@ public class Message extends HttpServlet {
 
     @Override
     protected void doPost(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
-        if(req.getSession().getAttribute("login") == null)
-        {
-            resp.sendRedirect(LOGIN_VIEW);
-            return;
-        }
-        req.setCharacterEncoding("UTF-8");
         String blabla = req.getParameter("blabla");
         if(blabla != null && blabla.length() != 0)
         {
@@ -55,14 +47,5 @@ public class Message extends HttpServlet {
         }
         else
             resp.sendRedirect(ERROR_VIEW);
-    }
-    private void addMessage(String username, String blabla)throws IOException
-    {
-        String file = USERS + "/" + username + "/" + new Date().getTime() + ".txt";
-        BufferedWriter writer = new BufferedWriter(
-                new OutputStreamWriter(new FileOutputStream(file), "UTF-8")
-        );
-        writer.write(blabla);
-        writer.close();
     }
 }

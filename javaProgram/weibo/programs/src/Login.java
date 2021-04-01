@@ -17,7 +17,6 @@ import java.io.IOException;
         }
 )
 public class Login extends HttpServlet {
-    private final String USERS= "/home/lancibe/java/javaProgram/weibo/programs/users";
     private String SUCCESS_VIEW;
     private String ERROR_VIEW;
 
@@ -39,22 +38,5 @@ public class Login extends HttpServlet {
             page = SUCCESS_VIEW;
         }
         resp.sendRedirect(page);
-    }
-    private boolean checkLogin(String username, String password) throws IOException
-    {
-        if(username != null && password != null)
-        {
-            for(String file : new File(USERS).list())
-            {
-                if(file.equals(username))
-                {
-                    BufferedReader reader = new BufferedReader(new FileReader(USERS + "/" + file + "/profile"));
-                    String passwd = reader.readLine().split("\t")[1];
-                    if(passwd.equals(password))
-                        return true;
-                }
-            }
-        }
-        return false;
     }
 }

@@ -19,7 +19,6 @@ import java.util.List;
         }
 )
 public class Register extends HttpServlet {
-    private final String USERS =  "/home/lancibe/java/javaProgram/weibo/programs/users";
     private String SUCCESS_VIEW;
     private String ERROR_VIEW;
 
@@ -35,7 +34,9 @@ public class Register extends HttpServlet {
         String username = req.getParameter("username");
         String password = req.getParameter("password");
         String confirmedPasswd = req.getParameter("confirmedPasswd");
+
         UserService userService = (UserService)getServletContext().getAttribute("userService");
+
         List<String> errors = new ArrayList<>();
         if(isInvalidEmail(email))
         {
@@ -66,25 +67,8 @@ public class Register extends HttpServlet {
     {
         return email == null || !email.matches("^[_a-z0-9-]+([.]" + "[_a-z0-9-]+)*@[a-z0-9-]+([.][a-z0-9-]+)*$");
     }
-    private boolean isInvalidUsername(String username)
-    {
-        for(String file : new File(USERS).list())
-        {
-            if(file.equals(username))
-                return true;
-        }
-        return false;
-    }
     private boolean isInvalidPassword(String password, String confirmedPasswd)
     {
         return  password == null || password.length()<6 || password.length()>16 || !password.equals(confirmedPasswd);
-    }
-    private void createUserData(String email, String username, String password) throws IOException
-    {
-        File userhome = new File(USERS + "/" +username);
-        userhome.mkdir();
-        BufferedWriter writer = new BufferedWriter(new FileWriter(userhome + "/profile"));
-        writer.write(email + "\t" + password);
-        writer.close();
     }
 }

@@ -14,9 +14,7 @@ import java.io.IOException;
         }
 )
 public class Delete extends HttpServlet {
-    private final String USERS= "/home/lancibe/java/javaProgram/weibo/programs/users";
     private String SUCCESS_VIEW;
-    private final String LOGIN_VIEW = "index.html";
 
     @Override
     public void init() throws ServletException {
@@ -25,11 +23,6 @@ public class Delete extends HttpServlet {
 
     @Override
     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
-        if(req.getSession().getAttribute("login") ==null)
-        {
-            resp.sendRedirect(LOGIN_VIEW);
-            return;
-        }
         String username = (String) req.getSession().getAttribute("login");
         String message = req.getParameter("message");
         UserService userService = (UserService)getServletContext().getAttribute("userService");

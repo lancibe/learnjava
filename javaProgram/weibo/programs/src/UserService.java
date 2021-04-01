@@ -20,7 +20,7 @@ public class UserService {
         return false;
     }
 
-    void createUserData(String email, String username, String password) throws IOException
+    public void createUserData(String email, String username, String password) throws IOException
     {
         File userhome = new File(USERS + "/" +username);
         userhome.mkdir();
@@ -29,7 +29,7 @@ public class UserService {
         writer.close();
     }
 
-    boolean checkLogin(String username, String password) throws IOException
+    public boolean checkLogin(String username, String password) throws IOException
     {
         if(username != null && password != null)
         {
@@ -88,7 +88,7 @@ public class UserService {
         return messages;
     }
 
-    void addMessage(String username, String blabla)throws IOException
+    public void addMessage(String username, String blabla)throws IOException
     {
         String file = USERS + "/" + username + "/" + new Date().getTime() + ".txt";
         BufferedWriter writer = new BufferedWriter(

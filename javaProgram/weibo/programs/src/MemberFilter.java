@@ -6,7 +6,7 @@ import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 
 @WebFilter(
-        urlPatterns = {"/delete.do", "/logout.do", "/message.do", "member.view"},
+        urlPatterns = {"/delete.do", "/logout.do", "/message.do", "/member.view"},
         initParams = {
                 @WebInitParam(name = "LOGIN_VIEW", value = "index.html")
         }
