@@ -84,7 +84,7 @@ public class Member extends HttpServlet {
 
     private TxtFilenameFilter filenameFilter = new TxtFilenameFilter();
 
-    private class DateComparator implements Comparator<Date> {
+    class DateComparator implements Comparator<Date> {
         @Override
         public int compare(Date d1, Date d2) {
             return -d1.compareTo(d2);
