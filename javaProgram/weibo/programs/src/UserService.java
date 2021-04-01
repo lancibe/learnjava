@@ -29,7 +29,7 @@ public class UserService {
         writer.close();
     }
 
-    private boolean checkLogin(String username, String password) throws IOException
+    boolean checkLogin(String username, String password) throws IOException
     {
         if(username != null && password != null)
         {
