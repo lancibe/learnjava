@@ -56,7 +56,7 @@ public class UserService {
 
     private TxtFilenameFilter filenameFilter = new TxtFilenameFilter();
 
-    private class DataComparator implements Comparator<Date>
+    private class DateComparator implements Comparator<Date>
     {
         @Override
         public int compare(Date o1, Date o2) {
@@ -64,7 +64,7 @@ public class UserService {
         }
     }
 
-    private Member.DateComparator comparator;
+    private DateComparator comparator = new DateComparator();
     Map<Date, String> readMessage(String username)throws IOException
     {
         File border = new File(USERS + "/" + username);

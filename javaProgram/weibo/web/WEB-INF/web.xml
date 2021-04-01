@@ -8,9 +8,5 @@
         <param-name>USERS</param-name>
         <param-value>/home/lancibe/java/javaProgram/weibo/programs/users</param-value>
     </context-param>
-    <welcome-file-list>
-        <welcome-file>test.html</welcome-file>
-        <welcome-file>index.html</welcome-file>
-        <welcome-file>index.jsp</welcome-file>
-    </welcome-file-list>
+
 </web-app>

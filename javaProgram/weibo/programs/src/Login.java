@@ -4,9 +4,6 @@ import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
-import java.io.BufferedReader;
-import java.io.File;
-import java.io.FileReader;
 import java.io.IOException;
 
 @WebServlet(
@@ -30,8 +27,9 @@ public class Login extends HttpServlet {
     protected void doPost(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
         String username = req.getParameter("username");
         String password = req.getParameter("password");
-        UserService userService = (UserService)getServletContext().getAttribute("userService");
         String page = ERROR_VIEW;
+
+        UserService userService = (UserService)getServletContext().getAttribute("userService");
         if(userService.checkLogin(username, password))
         {
             req.getSession().setAttribute("login", username);
