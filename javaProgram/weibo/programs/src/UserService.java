@@ -88,7 +88,7 @@ public class UserService {
         return messages;
     }
 
-    private void addMessage(String username, String blabla)throws IOException
+    void addMessage(String username, String blabla)throws IOException
     {
         String file = USERS + "/" + username + "/" + new Date().getTime() + ".txt";
         BufferedWriter writer = new BufferedWriter(
