@@ -54,7 +54,8 @@ public class Member extends HttpServlet {
         out.println("<tr><th><hr></th></tr>");
         out.println("</thead>");
         out.println("<tbody>");
-        Map<Date, String> messages = readMessage(username);
+        UserService userService = (UserService)getServletContext().getAttribute("userService");
+        Map<Date, String> messages = userService.readMessage(username);
         DateFormat dateFormat = DateFormat.getDateTimeInstance(DateFormat.FULL, DateFormat.FULL, Locale.CHINA);
         for(Date date : messages.keySet())
         {

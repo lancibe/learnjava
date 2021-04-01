@@ -65,7 +65,7 @@ public class UserService {
     }
 
     private Member.DateComparator comparator;
-    private Map<Date, String> readMessage(String username)throws IOException
+    Map<Date, String> readMessage(String username)throws IOException
     {
         File border = new File(USERS + "/" + username);
         String[] txts = border.list( filenameFilter);
