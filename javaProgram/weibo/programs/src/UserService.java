@@ -20,7 +20,7 @@ public class UserService {
         return false;
     }
 
-    private void createUserData(String email, String username, String password) throws IOException
+    void createUserData(String email, String username, String password) throws IOException
     {
         File userhome = new File(USERS + "/" +username);
         userhome.mkdir();

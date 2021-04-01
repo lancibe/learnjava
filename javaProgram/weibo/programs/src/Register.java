@@ -1,4 +1,5 @@
 import javax.servlet.ServletException;
+import javax.servlet.annotation.WebInitParam;
 import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
@@ -10,11 +11,23 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
-@WebServlet("/register.do")
-public class register extends HttpServlet {
+@WebServlet(
+        urlPatterns = {"/register.do"},
+        initParams = {
+                @WebInitParam(name = "SUCCESS_VIEW", value = "success.view"),
+                @WebInitParam(name = "ERROR_VIEW", value = "error.view")
+        }
+)
+public class Register extends HttpServlet {
     private final String USERS =  "/home/lancibe/java/javaProgram/weibo/programs/users";
-    private final String SUCCESS_VIEW = "success.view";
-    private final String ERROR_VIEW = "error.view";
+    private String SUCCESS_VIEW;
+    private String ERROR_VIEW;
+
+    @Override
+    public void init() throws ServletException {
+        SUCCESS_VIEW = getServletConfig().getInitParameter("SUCCESS_VIEW");
+        ERROR_VIEW = getServletConfig().getInitParameter("ERROR_VIEW");
+    }
 
     @Override
     protected void doPost(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
@@ -22,12 +35,13 @@ public class register extends HttpServlet {
         String username = req.getParameter("username");
         String password = req.getParameter("password");
         String confirmedPasswd = req.getParameter("confirmedPasswd");
+        UserService userService = (UserService)getServletContext().getAttribute("userService");
         List<String> errors = new ArrayList<>();
         if(isInvalidEmail(email))
         {
             errors.add("未填写邮箱或格式不正确");
         }
-        if(isInvalidUsername(username))
+        if(userService.isInvalidUsername(username))
         {
             errors.add("用户名为空或已存在");
         }
@@ -43,7 +57,7 @@ public class register extends HttpServlet {
         else
         {
             resultPage = SUCCESS_VIEW;
-            createUserData(email, username, password);
+            userService.createUserData(email, username, password);
         }
         req.getRequestDispatcher(resultPage).forward(req, resp);
     }
