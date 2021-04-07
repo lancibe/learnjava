@@ -23,14 +23,14 @@ public class ListBookmark extends HttpServlet {
         out.println("<td style='background-color:rgb(51.255,255);'>网页</td>");
         out.println("<td style='background-color:rgb(51.255,255);'>分类</td>");
         out.println("</tr>");
-        BookmarkService bookmarkService = (BookmarkService)getServletContext().getAttribute("bookmarkService");
+/*        BookmarkService bookmarkService = (BookmarkService)getServletContext().getAttribute("bookmarkService");
         for(Bookmark bookmark : bookmarkService.getBookmarks())
         {
             out.println("<tr>");
             out.println("<td><a href='http://"+bookmark.getUrl()+"'>"+bookmark.getTitle() + "</a></td>");
             out.println("<td>"+bookmark.getCategory()+"</td>");
             out.println("</tr>");
-        }
+        }*/
         out.println("</tbody>");
         out.println("</table>");
         out.println("</body>");
