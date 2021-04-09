@@ -12,11 +12,7 @@
     <title>加法网页</title>
 </head>
 <body>
-<%
-    String a = request.getParameter("a");
-    String b = request.getParameter("b");
-    out.println("a + b = " + (Integer.parseInt(a) + Integer.parseInt(b)));
-%>
+    ${param.a} + ${param.b} = ${param.a + param.b} <%-- 使用EL --%>
 
 </body>
 </html>
