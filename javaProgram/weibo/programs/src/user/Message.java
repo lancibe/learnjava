@@ -11,8 +11,8 @@ import java.io.IOException;
 @WebServlet(
         urlPatterns = {"/message.do"},
         initParams = {
-                @WebInitParam(name = "SUCCESS_VIEW", value = "member.view"),
-                @WebInitParam(name = "ERROR_VIEW", value = "member.view")
+                @WebInitParam(name = "SUCCESS_VIEW", value = "member.jsp"),
+                @WebInitParam(name = "ERROR_VIEW", value = "member.jsp")
         }
 )
 public class Message extends HttpServlet {
