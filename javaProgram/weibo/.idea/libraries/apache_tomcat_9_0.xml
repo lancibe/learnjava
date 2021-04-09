@@ -1,0 +1,26 @@
+<component name="libraryTable">
+  <library name="apache-tomcat-9.0">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Downloads/apache-tomcat-9.0.34/apache-tomcat-9.0.34" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/Downloads/apache-tomcat-9.0.34/apache-tomcat-9.0.34/Filterdeom/src" />
+      <root url="file://$USER_HOME$/Downloads/apache-tomcat-9.0.34/apache-tomcat-9.0.34/JQuerytest/src" />
+      <root url="file://$USER_HOME$/Downloads/apache-tomcat-9.0.34/apache-tomcat-9.0.34/redisdeom/src" />
+      <root url="file://$USER_HOME$/Downloads/apache-tomcat-9.0.34/apache-tomcat-9.0.34/untitled/src" />
+      <root url="file://$USER_HOME$/Downloads/apache-tomcat-9.0.34/apache-tomcat-9.0.34/untitled1/src" />
+      <root url="file://$USER_HOME$/Downloads/apache-tomcat-9.0.34/apache-tomcat-9.0.34/webapps/Userquery/src" />
+      <root url="file://$USER_HOME$/Downloads/apache-tomcat-9.0.34/apache-tomcat-9.0.34/webapps/docs/appdev/sample/src" />
+      <root url="file://$USER_HOME$/Downloads/apache-tomcat-9.0.34/apache-tomcat-9.0.34/webapps/eclipse/Servletdeom1/src" />
+      <root url="file://$USER_HOME$/Downloads/apache-tomcat-9.0.34/apache-tomcat-9.0.34/webapps/examples/WEB-INF/classes" />
+      <root url="file://$USER_HOME$/Downloads/apache-tomcat-9.0.34/apache-tomcat-9.0.34/webapps/examples/WEB-INF/jsp/applet" />
+      <root url="file://$USER_HOME$/Downloads/apache-tomcat-9.0.34/apache-tomcat-9.0.34/webapps/examples/jsp/plugin/applet" />
+      <root url="file://$USER_HOME$/Downloads/apache-tomcat-9.0.34/apache-tomcat-9.0.34/webapps/manager/src" />
+      <root url="file://$USER_HOME$/Downloads/apache-tomcat-9.0.34/apache-tomcat-9.0.34/webapps/manager/untitled9/src" />
+      <root url="file://$USER_HOME$/Downloads/apache-tomcat-9.0.34/apache-tomcat-9.0.34/webapps/src" />
+      <root url="file://$USER_HOME$/Downloads/apache-tomcat-9.0.34/apache-tomcat-9.0.34/webapps/untitled/src" />
+      <root url="file://$USER_HOME$/Downloads/apache-tomcat-9.0.34/apache-tomcat-9.0.34/webapps/untitled1/src" />
+    </SOURCES>
+  </library>
+</component>

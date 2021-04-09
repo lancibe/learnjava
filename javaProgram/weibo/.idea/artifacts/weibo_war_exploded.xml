@@ -7,6 +7,7 @@
         <element id="directory" name="classes">
           <element id="module-output" name="weibo" />
           <element id="module-output" name="programs" />
+          <element id="library" level="project" name="apache-tomcat-9.0" />
         </element>
         <element id="directory" name="lib">
           <element id="file-copy" path="$USER_HOME$/Downloads/apache-tomcat-9.0.34/apache-tomcat-9.0.34/lib/el-api.jar" />

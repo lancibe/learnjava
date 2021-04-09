@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="jqurey/jquery-3.5.1.min.js"></script>
+</head>
+<script>
+                     $(function () {
+                         $.get("servletdeom1",{},function (data) {
+                          var sid= $("#sid");
+                             data=$.parseJSON(data);        //将json字符串转成json对象
+                      //  alert(data);
+                             $(data).each(function () {
+                                 var a="<option>"+this.name+"</option>>";
+                               sid.append(a);
+                         });
+
+
+
+                         },"json");
+                     });
+</script>
+<body>
+<select id="sid">
+    <option>请选择省份</option>
+</select>
+<div id="divd"></div>
+</body>
+</html>

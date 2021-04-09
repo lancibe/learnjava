@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="../../web/js/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<script>
+      $(function () {
+     var  a= $("#pid1").prop("name");   //获取固有属于name的值
+
+          $("#pid1").prop("name","aaa");     //设置name的属性的值
+
+          $("#pid1").removeProp("name");  //删除 name的值
+
+          $("#pid2").attr("id");    //获取id的值
+
+          $("#pid2").attr("id","bbbb");   //设置属性的值
+
+          $("#pid2").removeAttr("id");  //删除属性
+
+          //  1.如果操作的是固有属性就用prop
+          //2.如果操作的是自定义属性就用attr
+
+          });
+
+</script>
+  <input  id="pid1" name="abc" value="aaa" type="text">
+<input p="id"  id="pid2" type="text" value="bbb">
+</body>
+</html>

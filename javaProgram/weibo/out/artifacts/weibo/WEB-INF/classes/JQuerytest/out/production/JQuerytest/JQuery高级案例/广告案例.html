@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="../../web/js/jquery-3.5.1.min.js"></script>
+</head>
+<script>
+    $(function () {
+        function f(){
+            setTimeout(showd,3000);
+            setTimeout(hided,8000);
+        }
+      setInterval(f,14000);
+
+    });
+    //显示
+       function showd() {
+           $(".div1").slideDown("slow");
+       }
+    //隐藏
+    function hided() {
+        $(".div1").slideUp("slow");
+    }
+
+</script>
+<body>
+<div class="div1" style="display: none;" >
+    <img src="../img/广告.jpg">
+</div>
+</body>
+</html>

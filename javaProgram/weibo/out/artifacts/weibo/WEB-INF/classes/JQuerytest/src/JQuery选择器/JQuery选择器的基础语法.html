@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="../../web/js/jquery-3.5.1.min.js"> </script>
+</head>
+<script>
+    $(function () {
+      $("#pid").click(function () {
+          $(".min,#id2").css("backgroundColor","pink");   //并集选择器
+          /**
+           *  $(".class属性名")    类选择器
+           *   $("html标签名")       基本选择器
+           *
+           *
+           *
+           * */
+      })
+    });
+
+</script>
+<body>
+<div id="id2" class="min">
+    dd
+     <input type="button" id="pid" value="变色">
+</div>
+<div id="id1">
+    <p class="min"> 匹配</p>
+
+</div>
+</body>
+</html>

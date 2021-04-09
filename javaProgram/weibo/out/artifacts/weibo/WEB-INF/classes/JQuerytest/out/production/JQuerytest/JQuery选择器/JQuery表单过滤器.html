@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="../../web/js/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+<script>
+      $(function () {
+          $("#bt1").click(function () {
+              $("input[type='text']:enabled").val("aaa");      //获取可以用的元素    ：enabled
+          });
+
+          $("#bt2").click(function () {
+              $("input[type='text']:disabled").val("aaa");      //获取不可以用的元素    ：disabled
+          });
+
+          $("#bt3").click(function () {
+             alert($("input[type='checkbox']:checked").length) ;      //获取选中的个数    ：disabled
+          });
+
+          $("#bt3").click(function () {
+              alert($("input[type='checkbox']:checked").length) ;      //获取选中的个数    ：disabled
+          });
+
+          $("#bt4").click(function () {
+             console.log($("option:selected").html()) ;      //获取下拉列表的对象    ：selected
+          });
+      })
+</script>
+
+
+<form>
+    <input type="text" >
+
+    <input type="text" disabled="disabled">
+    <input type="checkbox" >男
+    <input type="checkbox" >女
+  <input type="button" value="按钮1" id="bt1">
+
+    <input type="button" value="按钮2" id="bt2">
+    <input type="button" value="按钮3" id="bt3">
+    <input type="button" value="按钮3" id="bt4">
+    <select name="cars">
+        <option value="bk" >别克</option>
+        <option value="xfl" selected>雪佛兰</option>
+        <option value="dz" >大众</option>
+        <option value="fute" >福特</option>
+    </select>
+
+
+</form>
+</body>
+</html>

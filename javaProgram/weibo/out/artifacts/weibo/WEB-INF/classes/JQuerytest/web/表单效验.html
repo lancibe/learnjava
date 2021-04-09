@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="js/jquery-3.5.1.min.js"></script>
+</head>
+<script>
+
+            $(function () {
+            $("#pid").blur(function () {
+                var  val= $(this).val();
+                if(val==""||val==null){                      //判断用户输入的用户名不能为空
+                    $("#spid").html("请输入用户名");
+                    return;
+                }
+
+                //contain  包含     //msg   回复的信息
+                  $.get("/Selerletdeom2",{username:val},function (data) {               //发送给请求给服务器
+                       if(data.contain){
+                            $("#spid").css("color","red");
+                           $("#spid").html(data.msg);
+                       }else{
+                           $("#spid").css("color","green");
+                           $("#spid").html(data.msg);
+                       }
+                  } ,"json");
+
+            });
+            });
+
+
+</script>
+<body>
+<form>
+    <input type="text" id="pid" placeholder="请输入用户名">
+    <span id="spid"></span>
+    <br>
+    <input type="text"  placeholder="请输入密码">
+    <br>
+    <input type="submit" id="bt" value="注册">
+</form>
+
+</body>
+</html>

@@ -19,9 +19,9 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" scope="PROVIDED" name="tomcat-9" level="application_server_libraries" />
-    <orderEntry type="module" module-name="programs" />
-    <orderEntry type="module-library">
+    <orderEntry type="library" exported="" scope="PROVIDED" name="tomcat-9" level="application_server_libraries" />
+    <orderEntry type="module" module-name="programs" exported="" />
+    <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
           <root url="file://$USER_HOME$/Downloads/apache-tomcat-9.0.34/apache-tomcat-9.0.34/lib" />
@@ -31,5 +31,6 @@
         <jarDirectory url="file://$USER_HOME$/Downloads/apache-tomcat-9.0.34/apache-tomcat-9.0.34/lib" recursive="false" />
       </library>
     </orderEntry>
+    <orderEntry type="library" exported="" name="apache-tomcat-9.0" level="project" />
   </component>
 </module>

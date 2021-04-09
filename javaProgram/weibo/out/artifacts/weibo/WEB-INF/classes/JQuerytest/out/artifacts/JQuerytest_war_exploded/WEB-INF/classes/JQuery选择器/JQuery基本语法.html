@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="../../web/js/jquery-3.5.1.min.js"></script>
+</head>
+<script>
+     $(function () { //利用JQuery  加载人口函数   可以多次加载    而js加载会被覆盖掉
+           $("#bt").click(function () {             //绑定事件
+               $("#div1").css("backgroundColor","green");       //设置ccs的样式
+           })
+     });
+
+</script>
+<body>
+<div id="div1">dic1... </div>
+<div id="div2">div22....</div>
+<input id="bt" type="button" value="变色">
+</body>
+</html>

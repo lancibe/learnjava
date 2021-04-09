@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="../../web/js/jquery-3.5.1.min.js"></script>
+</head>
+<style>
+    .td{
+        margin: 0 auto;
+    }
+
+</style>
+<script>
+    $(function () {
+         $("tr:gt(0):odd").css("backgroundColor","pink");       //奇数
+         $("tr:gt(0):even").css("backgroundColor","green");           //偶数
+    });
+
+</script>
+<body>
+<table   class="td" border="1" cellspacing="0" cellpadding="10" >
+    <tr>
+        <th>编号</th>
+        <th>姓名</th>
+        <th>年龄</th>
+        <th>联系方式</th>
+    </tr>
+    <tr>
+        <th>1</th>
+        <th>张三</th>
+        <th>23</th>
+        <th>412121</th>
+    </tr>
+    <tr>
+        <th>2</th>
+        <th>李三</th>
+        <th>23</th>
+        <th>412121</th>
+    </tr>
+    <tr>
+        <th>3</th>
+        <th>王三</th>
+        <th>23</th>
+        <th>412121</th>
+    </tr>
+    <tr>
+        <th>4</th>
+        <th>赵三</th>
+        <th>23</th>
+        <th>412121</th>
+    </tr>
+</table>
+</body>
+</html>

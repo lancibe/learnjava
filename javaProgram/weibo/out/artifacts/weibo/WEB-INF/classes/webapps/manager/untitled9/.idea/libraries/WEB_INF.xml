@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="WEB-INF">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/untitled9_war_exploded/WEB-INF/spring-tx-5.1.10.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/untitled9_war_exploded/WEB-INF/commons-beanutils-1.8.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/untitled9_war_exploded/WEB-INF/mchange-commons-java-0.2.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/untitled9_war_exploded/WEB-INF/c3p0-0.9.5.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/untitled9_war_exploded/WEB-INF/spring-jdbc-5.1.10.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/untitled9_war_exploded/WEB-INF/c3p0-0.9.5.2-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/untitled9_war_exploded/WEB-INF/druid-1.1.21-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/untitled9_war_exploded/WEB-INF/mysql-connector-java-5.1.22-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/untitled9_war_exploded/WEB-INF/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/untitled9_war_exploded/WEB-INF/spring-beans-5.1.10.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/untitled9_war_exploded/WEB-INF/commons-dbcp-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/untitled9_war_exploded/WEB-INF/druid-1.1.21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/untitled9_war_exploded/WEB-INF/spring-core-5.1.10.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
