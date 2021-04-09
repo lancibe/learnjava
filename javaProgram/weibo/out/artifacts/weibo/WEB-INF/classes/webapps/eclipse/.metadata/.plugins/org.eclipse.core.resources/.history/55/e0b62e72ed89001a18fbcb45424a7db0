@@ -1,7 +1,0 @@
-package tyi.liq;
-
-public class DEM {
-   public static void main(String[] args) {
-	System.out.println(Test.tets("2", "@"));
-}
-}
