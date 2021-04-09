@@ -1,3 +1,5 @@
+package user;
+
 import java.util.Collection;
 
 public class Util {
